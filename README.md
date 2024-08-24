@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alvino424
-- 🌱 I’m currently learning scripting TERRAFORM and ANSIBLE
+- 🌱 I’m currently on JS NEXT.js and Sanity
 - 📫 How to reach me ale.marchina1@gmail.com
 
 <!---
